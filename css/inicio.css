@@ -1,0 +1,33 @@
+.inicio{
+  max-width: 1200px;
+  padding: 300px 100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: 150px;
+  align-items: center;
+}
+
+.foto{
+  background: radial-gradient(50% 50% at 50% 50%, #00C52B 17.71%, rgba(0, 0, 0, 0) 100%);
+}
+
+.inicio h1{
+  color: white;
+  font-size: 2rem;
+  line-height: 1.125;
+  margin-bottom: 15px;
+
+}
+.inicio h2{
+  color: white;
+  font-size: 3.125rem;
+  line-height: 1.125;
+  margin-bottom: 40px;
+}
+
+.inicio p{
+  color: white;
+  font-size: 32px;
+}
+
