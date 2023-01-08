@@ -1,0 +1,13 @@
+.sobre{
+  color: white;
+  font-size: 2rem;
+  line-height: 1.125;
+  margin-bottom: 15px;
+  align-items: center;
+}
+
+.div{
+  color: white;
+  align-items: center;
+  gap: 150px
+};
