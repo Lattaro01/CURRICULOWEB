@@ -18,15 +18,21 @@
 };
 
 .objetivo-titulo{
-  font-size: 32px;
+  font-size: 25px;
+  color: #00C52B;
+}
+
+.formacao-titulo{
+  font-size: 25px;
   color: #00C52B;
 }
 
 .experiencia-prof-titulo{
-  font-size: 32px;
+  font-size: 25px;
   color: #00C52B;
 }
 
-.objetivo-texto{
-  font-size: 22px;
+.qualificacoes-prof-titulo{
+  font-size: 25px;
+  color: #00C52B;
 }
