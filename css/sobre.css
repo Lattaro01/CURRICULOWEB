@@ -1,13 +1,32 @@
-.sobre{
+.informacoes-grid{
+  max-width: 800px;
+  padding: 300px 100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: 50px;
   color: white;
-  font-size: 2rem;
-  line-height: 1.125;
-  margin-bottom: 15px;
-  align-items: center;
 }
 
-.div{
-  color: white;
+.sobre{
+  max-width: 830px;
+  margin: 0 auto;
+  display: flex;
   align-items: center;
-  gap: 150px
+  gap: 100px;
+  color: white;
 };
+
+.objetivo-titulo{
+  font-size: 32px;
+  color: #00C52B;
+}
+
+.experiencia-prof-titulo{
+  font-size: 32px;
+  color: #00C52B;
+}
+
+.objetivo-texto{
+  font-size: 22px;
+}
